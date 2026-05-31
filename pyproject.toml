@@ -6,7 +6,7 @@ include = ["vayuapi*"]
 
 [project]
 name = "vayuapi"
-version = "0.1.3"
+version = "0.1.4"
 description = "The fastest Python async API framework for rapid development with AI/ML support"
 readme = "README.md"
 requires-python = ">=3.11,<3.16"
@@ -17,10 +17,10 @@ keywords = [
     "ai", "ml", "langchain", "rag", "pydantic", "admin", "security"
 ]
 authors = [
-    {name = "VayuAPI Team", email = "team@vayuapi.dev"}
+    {name = "VayuAPI Team", email = "codeswithalok@gmail.com"}
 ]
 maintainers = [
-    {name = "VayuAPI Team", email = "team@vayuapi.dev"}
+    {name = "VayuAPI Team", email = "codeswithalok@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
